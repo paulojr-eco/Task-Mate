@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-O projeto foi criado com o objetivo de aprendizado sobre como utilizar as seguintes tecnologias:
+O projeto foi criado com o objetivo de aprendizado sobre as seguintes tecnologias:
 - GraphQL;
 - Appolo Server;
 - Apollo Client v4;
