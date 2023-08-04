@@ -13,7 +13,7 @@
 
 O projeto foi criado com o objetivo de aprendizado sobre as seguintes tecnologias:
 - GraphQL;
-- Appolo Server;
+- Apollo Server;
 - Apollo Client v4;
 - Next.js com TypeScript;
 - ORM Prisma.
@@ -34,7 +34,7 @@ Este app faz use do Container MySQL para compor o banco de dados. Para inicializ
 
 `docker-compose up -d`
 
-Em seguida, é preciso fazer o setup do schema a ser utilizado, através do ORM Prisma. Sendo assim, gere o database com o nome de sua preferência, por exemplo `task_mate`, e crie o arquivo .env com base no arquivo de exemplo contendo as credencias corretas. Após isso, execute o seguinte comando:
+Em seguida, é preciso fazer o setup do schema a ser utilizado, através do ORM Prisma. Sendo assim, crie o arquivo .env com base no arquivo de exemplo contendo as credencias corretas. Após isso, execute o seguinte comando:
 
 `npx prisma db push`
 
